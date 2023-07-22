@@ -8,7 +8,7 @@ function AboutMe() {
         Christopher Chorney is a cello player and multi-instrumentalist hailing
         from Honolulu, Hawaii who has played numerous Grammy-Award Winning
         tracks. He is the owner of Analog Rock Machine Studio and has produced
-        albums for a diverse array of local musicians. His interests include
+        albums for a diverse array of musicians. His interests include
         three-dimensional audio, web3, digital artwork, and full-stack web
         development. He currently resides in Richmond Virginia.
       </p>
