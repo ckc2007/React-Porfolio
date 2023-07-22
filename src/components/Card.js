@@ -6,7 +6,7 @@ function Card(props) {
   return (
     <div className="card">
       <h3>{title}</h3>
-      <a href={linkUrl}>
+      <a href={linkUrl} target="_blank" rel="noopener noreferrer">
         <img src={imageUrl} alt={title} />
       </a>
       <p>{description}</p>

@@ -112,7 +112,7 @@ function Work() {
           <div id="main-work" className="card card--full">
             {/* The main work item */}
             <h3>{workItems[0].title}</h3>
-            <a href={workItems[0].linkUrl}>
+            <a href={workItems[0].linkUrl} target="_blank" rel="noopener noreferrer">
               <img
                 id="biggest-image"
                 src={workItems[0].imageUrl}
