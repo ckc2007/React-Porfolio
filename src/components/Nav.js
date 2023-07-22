@@ -11,6 +11,9 @@ function Nav() {
           <a href="#work">Work</a>
         </li>
         <li className="display-inline">
+          <a href="#creative">Creative</a>
+        </li>
+        <li className="display-inline">
           <a href="#resume">Resume</a>
         </li>
         <li className="display-inline">

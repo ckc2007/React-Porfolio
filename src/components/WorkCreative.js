@@ -57,7 +57,7 @@ const workItems = [
 
 function WorkCreative() {
   return (
-    <section id="work" className="work">
+    <section id="creative" className="work">
       <h2>Creative Work</h2>
       <div className="centered">
         <div className="container">
