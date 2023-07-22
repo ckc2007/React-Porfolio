@@ -23,7 +23,7 @@ A React portfolio showcasing my coding and creative work.
 
 ## Installation
 
-Visit the deployed site (link below)
+Visit the deployed site [here]()
 
 ## Usage
 
@@ -31,8 +31,20 @@ none
 
 ## Screenshot / Video
 
-![screenshot](./assets/images/screenshot.png)
-![My Online Portfolio](TBD "My Online Portfolio")
+About Me
+![screenshot](./assets/images/Screen%20Shot%202023-07-22%20at%206.12.34%20PM.png)
+
+Work
+![screenshot](./assets/images/Screen%20Shot%202023-07-22%20at%206.12.52%20PM.png)
+
+Creative
+![screenshot](./assets/images/Screen%20Shot%202023-07-22%20at%206.13.01%20PM.png)
+
+Resume
+![screenshot](./assets/images/Screen%20Shot%202023-07-22%20at%206.13.12%20PM.png)
+
+Contact Me
+![screenshot](./assets/images/Screen%20Shot%202023-07-22%20at%206.13.40%20PM.png)
 
 ## Contributing
 
@@ -43,14 +55,13 @@ Tutorials used in this project include:
 
 React: https://create-react-app.dev/docs/deployment/#github-pages
 
-Regarding Target="_blank": https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/
+Regarding Target="\_blank": https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/
 
 onBlur: https://www.w3schools.com/jsref/event_onblur.asp
 
 Computed Property Names: https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/
 
 link.setAtrribute on anchor tags for download: https://stackoverflow.com/questions/48690513/setattribute-download-for-anchor-tag-using-javascript
-
 
 ## License
 
