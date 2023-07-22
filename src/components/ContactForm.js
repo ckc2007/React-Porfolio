@@ -15,7 +15,6 @@ function ContactForm() {
   }
 
   function validateEmail(email) {
-    // Simple email validation using a regular expression
     const re = /\S+@\S+\.\S+/;
     return re.test(email);
   }
@@ -33,7 +32,6 @@ function ContactForm() {
 
   function handleSubmit(e) {
     e.preventDefault();
-    // Handle form submission logic here, for example, send the data to a server
     console.log("Form data:", formData);
   }
 
