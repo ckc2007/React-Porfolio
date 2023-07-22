@@ -4,61 +4,78 @@ import Card from "./Card";
 // Define workItems data here
 const workItems = [
   {
-    title: "Hawaii Classic Duo",
-    imageUrl: "/images/hawaii classic section low res pic.png",
-    description: "Music performance",
-    linkUrl: "https://www.hawaiiclassicduo.com",
+    title: "Travel Journal",
+    imageUrl: "/images/Travel-Journal.png",
+    description:
+      "A travel journal app that saves your favorite travel memories. Add points of interest, photos and reviews!",
+    linkUrl: "https://github.com/ckc2007/Travel-Journal",
   },
   {
-    title: "Code Wars",
-    imageUrl: "/images/codewars section pic.png",
-    description: "Practice kata",
-    linkUrl: "https://www.codewars.com/users/ckc2007",
+    title: "Instrument Rent Calculator",
+    imageUrl: "/images/Instrument-Rent-Calculator.png",
+    description:
+      "A custom instrument rental calculator for Jan Hampton Violins.",
+    linkUrl: "https://github.com/ckc2007/Instrument-Rent-Calculator",
   },
   {
-    title: "Code Signal",
-    imageUrl: "/images/codesignal section pic.png",
-    description: "Coding challenges and training",
-    linkUrl: "https://app.codesignal.com/profile/christoph_jqs",
+    title: "README Generator",
+    imageUrl: "/images/README-Generator.png",
+    description: "A command-line professional README generator application.",
+    linkUrl: "https://github.com/ckc2007/README-Generator",
   },
   {
-    title: "Mimo App",
-    imageUrl: "/images/mimo web.png",
-    description: "Certifications in web development, Python and SQL",
-    linkUrl: "https://mimo.org/",
+    title: "Tech Blog",
+    imageUrl: "/images/The-Tech-Blob.png",
+    description: "A CMS-style blog site with a sense of humor.",
+    linkUrl: "https://github.com/ckc2007/Tech-Blog",
   },
   {
-    title: "Slow Drip",
-    imageUrl: "/images/slow drip section pic.jpeg",
-    description: "Ambisonic music production",
+    title: "Employee Tracker",
+    imageUrl: "/images/Employee-Tracker.png",
+    description:
+      "A command-line application that manages a company (or starship's) employee database.",
+    linkUrl: "https://github.com/ckc2007/Employee-Tracker",
+  },
+  {
+    title: "Online Coding Quiz",
+    imageUrl: "/images/Coding-Quiz.png",
+    description: "A timed quiz on JavaScript fundamentals.",
+    linkUrl: "https://github.com/ckc2007/Test-Your-Code-Knowledge-Online-Quiz",
+  },
+  {
+    title: "The Book Was Better - Book Finder App",
+    imageUrl: "/images/The-Book-Was-Better.png",
+    description:
+      "Quickly and easily search for film adaptations of books I have read",
     linkUrl:
-      "https://www.youtube.com/channel/UCJeoEVYLCI3uuPaWMMaw_Kg/playlists",
+      "https://github.com/ckc2007/The-Book-Was-Better-Movie-Book-Finder-App",
   },
   {
-    title: "Analog Rock Machine Studio",
-    imageUrl: "/images/arms section pic.jpeg",
-    description: "Music recording studio and record label",
-    linkUrl: "https://analogrockmachinestudio.com/",
+    title: "Weather Dashboard",
+    imageUrl: "/images/Weather-Dashboard.png",
+    description: "A weather dashboard that shows the 5 day forecast by city.",
+    linkUrl: "https://github.com/ckc2007/Weather-Dashboard-5-Day-Forecast",
   },
   {
-    title: "Objkt - Nature photography",
-    imageUrl: "/images/objkt.jpeg",
-    description: "Web3 - Tezos blockchain photography",
-    linkUrl:
-      "https://objkt.com/collection/KT1SdEkvQyFyvpEhFtp3kMNGz6hjU7WYodhJ",
+    title: "Workday Scheduler",
+    imageUrl: "/images/Work-Day-Scheduler.png",
+    description:
+      "A calendar application that saves user input and changes its appearance based on the time of day.",
+    linkUrl: "https://github.com/ckc2007/Workday-Scheduler",
   },
   {
-    title: "Music Production",
-    imageUrl: "/images/music img.jpeg",
-    description: "Albums I have produced",
-    linkUrl: "https://analogrockmachinestudio.com/bands",
+    title: "Password Generator",
+    imageUrl: "/images/Password-Generator.png",
+    description:
+      "A password generator that returns a randomized string based on user-defined parameters.",
+    linkUrl: "https://github.com/ckc2007/Password-Generator-App",
   },
 ];
 
 function Work() {
   return (
     <section id="work" className="work">
-      <h2>Work</h2>
+      <h2>Coding Work</h2>
       <div className="centered">
         <div className="container">
           <div id="main-work" className="card card--full">
