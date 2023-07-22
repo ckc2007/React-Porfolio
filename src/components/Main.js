@@ -1,23 +1,19 @@
 import React from "react";
 
-import Header from "./Header";
 import AboutMe from "./AboutMe";
 import Work from "./Work";
 import WorkCreative from "./WorkCreative";
 import Resume from "./Resume";
 import ContactForm from "./ContactForm";
-import Footer from "./Footer";
 
-function Main() {
+function Main({ activeTab }) {
   return (
     <main>
-      <Header />
-      <AboutMe />
-      <Work />
-      <WorkCreative />
-      <Resume />
-      <ContactForm />
-      <Footer />
+      {activeTab === "About Me" && <AboutMe />}
+      {activeTab === "Work" && <Work />}
+      {activeTab === "Work Creative" && <WorkCreative />}
+      {activeTab === "Resume" && <Resume />}
+      {activeTab === "Contact" && <ContactForm />}
     </main>
   );
 }

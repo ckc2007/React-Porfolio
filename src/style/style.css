@@ -65,6 +65,27 @@ nav li {
   display: inline-block;
 }
 
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+nav a.active {
+  border-bottom: 2px solid white; /* Add your desired underline style */
+}
+
 /* links */
 a {
   color: white;
@@ -138,6 +159,15 @@ h3 {
   background-color: #fff;
   flex: 0 1 calc(50% - 10px); /* Set width to 50% minus margin */
   margin-right: 20px; /* Add margin between cards */
+}
+
+.card p {
+  margin-bottom: 10px; /* Add margin between the description and the link */
+}
+
+.github-link {
+  margin-top: 5px; /* Add padding around the GitHub link */
+  color: blue;
 }
 
 /* set the main work image to be the largest at all times - note flex 0 1 100%<<< */

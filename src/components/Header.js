@@ -1,7 +1,7 @@
 import React from "react";
 import Nav from "./Nav";
 
-function Header() {
+function Header({ onTabChange }) {
   return (
     <header>
       <div>
@@ -15,8 +15,7 @@ function Header() {
         />
         <p id="tagline">Music. Photography. Web Design.</p>
       </div>
-      {/* import from Nav component */}
-      <Nav />
+      <Nav onTabChange={onTabChange} />
     </header>
   );
 }
