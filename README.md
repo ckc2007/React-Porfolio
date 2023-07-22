@@ -21,7 +21,9 @@ A React portfolio showcasing my coding and creative work.
 
 ## Installation
 
-Visit the deployed site [here]()
+Visit the deployed site [here](https://ckc2007.github.io/React-Porfolio/)
+
+Deployed application URL: https://ckc2007.github.io/React-Porfolio/
 
 ## Screenshot / Video
 
