@@ -6,7 +6,7 @@ function Header() {
   return (
     <header>
       <div>
-        <h1 class="display-inline">
+        <h1 className="display-inline">
           Chris <span id="chorney">Chorney</span>
         </h1>
         <img
