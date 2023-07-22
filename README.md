@@ -15,8 +15,6 @@ A React portfolio showcasing my coding and creative work.
 
 [Installation](#installation)
 
-[Usage](#usage)
-
 [Credits](#credits)
 
 [License](#license)
