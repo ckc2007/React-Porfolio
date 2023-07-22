@@ -6,7 +6,7 @@ function AboutMe() {
       <h2>About Me</h2>
       <img
         className="display-inline"
-        src="/images/chorney bio pic.jpeg"
+        src="images/chorney bio pic.jpeg"
         alt="chris chorney in an aloha shirt with his cello by a fountain"
         width="200"
         height="200"

@@ -5,7 +5,7 @@ import Card from "./Card";
 const workItems = [
   {
     title: "Travel Journal",
-    imageUrl: "/images/Travel-Journal.png",
+    imageUrl: "images/Travel-Journal.png",
     description:
       "A travel journal app that saves your favorite travel memories. Add points of interest, photos and reviews!",
     linkUrl: "https://travel-journal.herokuapp.com/",
@@ -13,7 +13,7 @@ const workItems = [
   },
   {
     title: "Instrument Rent Calculator",
-    imageUrl: "/images/Instrument-Rent-Calculator.png",
+    imageUrl: "images/Instrument-Rent-Calculator.png",
     description:
       "A custom instrument rental calculator for Jan Hampton Violins.",
     linkUrl: "https://ckc2007.github.io/Instrument-Rent-Calculator/",
@@ -21,21 +21,21 @@ const workItems = [
   },
   {
     title: "README Generator",
-    imageUrl: "/images/README-Generator.png",
+    imageUrl: "images/README-Generator.png",
     description: "A command-line professional README generator application.",
     linkUrl: "https://github.com/ckc2007/README-Generator",
     githubUrl: "https://github.com/ckc2007/README-Generator",
   },
   {
     title: "Tech Blog",
-    imageUrl: "/images/The-Tech-Blob.png",
+    imageUrl: "images/The-Tech-Blob.png",
     description: "A CMS-style blog site with a sense of humor.",
     linkUrl: "https://the-tech-blob.herokuapp.com/",
     githubUrl: "https://github.com/ckc2007/Tech-Blog",
   },
   {
     title: "Employee Tracker",
-    imageUrl: "/images/Employee-Tracker.png",
+    imageUrl: "images/Employee-Tracker.png",
     description:
       "A command-line application that manages a company (or starship's) employee database.",
     linkUrl: "https://github.com/ckc2007/Employee-Tracker",
@@ -43,7 +43,7 @@ const workItems = [
   },
   {
     title: "Online Coding Quiz",
-    imageUrl: "/images/Coding-Quiz.png",
+    imageUrl: "images/Coding-Quiz.png",
     description: "A timed quiz on JavaScript fundamentals.",
     linkUrl: "https://ckc2007.github.io/Test-Your-Code-Knowledge-Online-Quiz/",
     githubUrl:
@@ -51,7 +51,7 @@ const workItems = [
   },
   {
     title: "The Book Was Better - Book Finder App",
-    imageUrl: "/images/The-Book-Was-Better.png",
+    imageUrl: "images/The-Book-Was-Better.png",
     description:
       "Quickly and easily search for film adaptations of books I have read",
     linkUrl:

@@ -5,33 +5,33 @@ import Card from "./Card";
 const workItems = [
   {
     title: "Hawaii Classic Duo",
-    imageUrl: "/images/hawaii classic section low res pic.png",
+    imageUrl: "images/hawaii classic section low res pic.png",
     description: "Music performance",
     linkUrl: "https://www.hawaiiclassicduo.com",
   },
   {
     title: "Slow Drip",
-    imageUrl: "/images/slow drip section pic.jpeg",
+    imageUrl: "images/slow drip section pic.jpeg",
     description: "Ambisonic music production",
     linkUrl:
       "https://www.youtube.com/channel/UCJeoEVYLCI3uuPaWMMaw_Kg/playlists",
   },
   {
     title: "Analog Rock Machine Studio",
-    imageUrl: "/images/arms section pic.jpeg",
+    imageUrl: "images/arms section pic.jpeg",
     description: "Music recording studio and record label",
     linkUrl: "https://analogrockmachinestudio.com/",
   },
   {
     title: "Objkt - Nature photography",
-    imageUrl: "/images/objkt.jpeg",
+    imageUrl: "images/objkt.jpeg",
     description: "Web3 - Tezos blockchain photography",
     linkUrl:
       "https://objkt.com/collection/KT1SdEkvQyFyvpEhFtp3kMNGz6hjU7WYodhJ",
   },
   {
     title: "Music Production",
-    imageUrl: "/images/music img.jpeg",
+    imageUrl: "images/music img.jpeg",
     description: "Albums I have produced",
     linkUrl: "https://analogrockmachinestudio.com/bands",
   },
