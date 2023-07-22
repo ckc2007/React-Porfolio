@@ -1,24 +1,61 @@
 import React from "react";
 import Card from "./Card";
 
-function Work() {
-  // Define workItems data here
-  const workItems = [
-    {
-      title: "Hawaii Classic Duo",
-      imageUrl: "./assets/images/hawaii classic section low res pic.png",
-      description: "Music performance",
-      linkUrl: "https://www.hawaiiclassicduo.com",
-    },
-    {
-      title: "Code Wars",
-      imageUrl: "./assets/images/codewars section pic.png",
-      description: "Practice kata",
-      linkUrl: "https://www.codewars.com/users/ckc2007",
-    },
-    // Add other work items here
-  ];
+// Define workItems data here
+const workItems = [
+  {
+    title: "Hawaii Classic Duo",
+    imageUrl: "/images/hawaii classic section low res pic.png",
+    description: "Music performance",
+    linkUrl: "https://www.hawaiiclassicduo.com",
+  },
+  {
+    title: "Code Wars",
+    imageUrl: "/images/codewars section pic.png",
+    description: "Practice kata",
+    linkUrl: "https://www.codewars.com/users/ckc2007",
+  },
+  {
+    title: "Code Signal",
+    imageUrl: "/images/codesignal section pic.png",
+    description: "Coding challenges and training",
+    linkUrl: "https://app.codesignal.com/profile/christoph_jqs",
+  },
+  {
+    title: "Mimo App",
+    imageUrl: "/images/mimo web.png",
+    description: "Certifications in web development, Python and SQL",
+    linkUrl: "https://mimo.org/",
+  },
+  {
+    title: "Slow Drip",
+    imageUrl: "/images/slow drip section pic.jpeg",
+    description: "Ambisonic music production",
+    linkUrl:
+      "https://www.youtube.com/channel/UCJeoEVYLCI3uuPaWMMaw_Kg/playlists",
+  },
+  {
+    title: "Analog Rock Machine Studio",
+    imageUrl: "/images/arms section pic.jpeg",
+    description: "Music recording studio and record label",
+    linkUrl: "https://analogrockmachinestudio.com/",
+  },
+  {
+    title: "Objkt - Nature photography",
+    imageUrl: "/images/objkt.jpeg",
+    description: "Web3 - Tezos blockchain photography",
+    linkUrl:
+      "https://objkt.com/collection/KT1SdEkvQyFyvpEhFtp3kMNGz6hjU7WYodhJ",
+  },
+  {
+    title: "Music Production",
+    imageUrl: "/images/music img.jpeg",
+    description: "Albums I have produced",
+    linkUrl: "https://analogrockmachinestudio.com/bands",
+  },
+];
 
+function Work() {
   return (
     <section id="work" className="work">
       <h2>Work</h2>
