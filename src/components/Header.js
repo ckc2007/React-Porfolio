@@ -11,7 +11,7 @@ function Header() {
         </h1>
         <img
           className="display-inline"
-          src="./assets/images/chorney bio pic.jpeg"
+          src="/images/chorney bio pic.jpeg"
           alt="chris chorney in an aloha shirt with his cello by a fountain"
         />
         <p id="tagline">Music. Photography. Web Design.</p>
