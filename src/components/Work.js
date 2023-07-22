@@ -70,6 +70,24 @@ const workItems = [
       "A password generator that returns a randomized string based on user-defined parameters.",
     linkUrl: "https://github.com/ckc2007/Password-Generator-App",
   },
+  {
+    title: "Code Wars",
+    imageUrl: "/images/codewars section pic.png",
+    description: "Practice kata",
+    linkUrl: "https://www.codewars.com/users/ckc2007",
+  },
+  {
+    title: "Code Signal",
+    imageUrl: "/images/codesignal section pic.png",
+    description: "Coding challenges and training",
+    linkUrl: "https://app.codesignal.com/profile/christoph_jqs",
+  },
+  {
+    title: "Mimo App",
+    imageUrl: "/images/mimo web.png",
+    description: "Certifications in web development, Python and SQL",
+    linkUrl: "https://mimo.org/",
+  },
 ];
 
 function Work() {

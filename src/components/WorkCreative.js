@@ -10,24 +10,6 @@ const workItems = [
     linkUrl: "https://www.hawaiiclassicduo.com",
   },
   {
-    title: "Code Wars",
-    imageUrl: "/images/codewars section pic.png",
-    description: "Practice kata",
-    linkUrl: "https://www.codewars.com/users/ckc2007",
-  },
-  {
-    title: "Code Signal",
-    imageUrl: "/images/codesignal section pic.png",
-    description: "Coding challenges and training",
-    linkUrl: "https://app.codesignal.com/profile/christoph_jqs",
-  },
-  {
-    title: "Mimo App",
-    imageUrl: "/images/mimo web.png",
-    description: "Certifications in web development, Python and SQL",
-    linkUrl: "https://mimo.org/",
-  },
-  {
     title: "Slow Drip",
     imageUrl: "/images/slow drip section pic.jpeg",
     description: "Ambisonic music production",
