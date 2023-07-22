@@ -5,6 +5,7 @@ import AboutMe from "./AboutMe";
 import Work from "./Work";
 import WorkCreative from "./WorkCreative";
 import Resume from "./Resume";
+import ContactForm from "./ContactForm";
 import Footer from "./Footer";
 
 function Main() {
@@ -15,6 +16,7 @@ function Main() {
       <Work />
       <WorkCreative />
       <Resume />
+      <ContactForm />
       <Footer />
     </main>
   );
