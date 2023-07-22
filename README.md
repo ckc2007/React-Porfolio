@@ -2,13 +2,13 @@
 
 ![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A React portfolio to showcase my coding and creative work.
+A React portfolio showcasing my coding and creative work.
 
 ## Description
 
-- This online resume was built using React, and contains links to my work. .
-- Find links to my deployed applications, music, and photography work.
-- Find all of my work in one place and reach out!
+- This online resume was built using React, and contains links to my work.
+- Find links to my deployed applications, music, and photography.
+- Use the built in contact form to reach out!
 - The developer was able to implement React in creating this application, learned to define components and to integrate a contact form.
 
 ## Table Of Contents
@@ -35,9 +35,6 @@ none
 ![My Online Portfolio](TBD "My Online Portfolio")
 
 ## Contributing
-
-This project was built in collaboration with none,
-whose GitHub profile can be found [here](none).
 
 Third party assets used in this project include:
 https://react.dev/
