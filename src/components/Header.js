@@ -1,6 +1,5 @@
 import React from "react";
 import Nav from "./Nav";
-// import any necessary files from ../images/filename;
 
 function Header() {
   return (

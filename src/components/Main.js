@@ -6,8 +6,6 @@ import Work from "./Work";
 import Resume from "./Resume";
 import Footer from "./Footer";
 
-// import images or files from ""../images/filename"; etc.
-
 function Main() {
   return (
     <main>

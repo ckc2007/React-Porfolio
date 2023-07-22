@@ -1,5 +1,4 @@
 import React from "react";
-// import files or images used here
 
 function Footer() {
   return (
