@@ -25,10 +25,6 @@ A React portfolio showcasing my coding and creative work.
 
 Visit the deployed site [here]()
 
-## Usage
-
-none
-
 ## Screenshot / Video
 
 About Me
