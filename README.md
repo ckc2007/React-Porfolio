@@ -40,7 +40,17 @@ Third party assets used in this project include:
 https://react.dev/
 
 Tutorials used in this project include:
-https://create-react-app.dev/docs/deployment/#github-pages
+
+React: https://create-react-app.dev/docs/deployment/#github-pages
+
+Regarding Target="_blank": https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/
+
+onBlur: https://www.w3schools.com/jsref/event_onblur.asp
+
+Computed Property Names: https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/
+
+link.setAtrribute on anchor tags for download: https://stackoverflow.com/questions/48690513/setattribute-download-for-anchor-tag-using-javascript
+
 
 ## License
 
