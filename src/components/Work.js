@@ -28,7 +28,7 @@ const workItems = [
   },
   {
     title: "DailyCalm",
-    imageUrl: "images/The-Tech-Blob.png",
+    imageUrl: "images/DailyCalm.png",
     description: "Introducing DailyCalm, your personal self-care companion.",
     linkUrl: "https://daily-calm-2023-be74e09f75dd.herokuapp.com/",
     githubUrl: "https://github.com/ckc2007/DailyCalm",
