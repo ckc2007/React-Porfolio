@@ -27,6 +27,13 @@ const workItems = [
     githubUrl: "https://github.com/ckc2007/README-Generator",
   },
   {
+    title: "DailyCalm",
+    imageUrl: "images/The-Tech-Blob.png",
+    description: "Introducing DailyCalm, your personal self-care companion.",
+    linkUrl: "https://daily-calm-2023-be74e09f75dd.herokuapp.com/",
+    githubUrl: "https://github.com/ckc2007/DailyCalm",
+  },
+  {
     title: "Tech Blog",
     imageUrl: "images/The-Tech-Blob.png",
     description: "A CMS-style blog site with a sense of humor.",
@@ -112,7 +119,11 @@ function Work() {
           <div id="main-work" className="card card--full">
             {/* The main work item */}
             <h3>{workItems[0].title}</h3>
-            <a href={workItems[0].linkUrl} target="_blank" rel="noopener noreferrer">
+            <a
+              href={workItems[0].linkUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <img
                 id="biggest-image"
                 src={workItems[0].imageUrl}
